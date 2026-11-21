@@ -1,0 +1,5 @@
+{ "extends": "midnight", "name": "example-violet", "bg": "#100820", "ink": "#f5f0ff", "muted": "#a596c4", "surface": "#1c1135",
+  "accent": "pink", "colors": { "pink": "#ff4fd8", "purple": "#9b6bff" }, "background": "glow",
+  "fonts": { "display": { "family": "Plus Jakarta Sans", "weight": 600 }, "body": { "family": "Inter", "weight": 500 } },
+  "terminal": { "bg": "#0a0516", "prompt": "#ff4fd8", "bar": "#1c1135" },
+  "caption": { "bg": "rgba(16,8,32,0.85)", "fg": "#ffffff", "active": "#ff4fd8" } }

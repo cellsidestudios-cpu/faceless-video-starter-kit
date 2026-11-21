@@ -1,0 +1,15 @@
+{
+  "title": "Your video title here",
+  "theme": "midnight",
+  "size": "shorts",
+  "voice": "af_heart",
+  "pace": 1.15,
+  "music": true,
+  "captions": "bold",
+  "transition": "push",
+  "cover": "hook@0.6",
+  "defaults": "0.6",
+  "targetSeconds": 38,
+  "heard": {},
+  "watermark": false
+}

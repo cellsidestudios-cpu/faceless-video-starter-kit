@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.wav
+*.mp4
+*.mov
+client_secret*.json
+tokens/
+out/
+node_modules/
